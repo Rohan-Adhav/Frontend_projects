@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#head{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top:12px;
+    
+}
+.navbar-dark{
+    height:66px;
+}
+.card-header{
+    color:red;
+}
+.card{
+    background-color: rgb(3, 3, 3);
+    margin:50px 300px 0 300px;
+}
+.card-body{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    margin: 0 250px 0 250px;
+}
+.card-text{
+    background-color:rgb(4, 4, 4);
+    color:rgb(250, 247, 247);
+}
+.card-footer{
+    color:gold;
+}
+body{
+    background-color:beige;
+}
